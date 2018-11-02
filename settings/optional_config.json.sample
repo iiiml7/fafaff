@@ -1,10 +1,10 @@
 {
     "google_api_key": "",
-    "custom_search_engine": "",
+    "custom_search_engine": "google",
     "show_search_term": "True",
     "customcmd_color": "27007A",
     "rich_embed": "on",
-    "default_status": "idle",
+    "default_status": "streaming",
     "ascii_font": "big",
     "quoteembed_color": "auto",
     "embed_color": "",
